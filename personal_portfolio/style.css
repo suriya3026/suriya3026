@@ -1,0 +1,47 @@
+#one{
+    box-shadow: rgba(17, 17, 17, 0.495) 0px 10px 90px;
+    background-color: rgba(221, 219, 219, 0.402);
+}
+body{
+    background-color: white;
+}
+#two{
+    color: orangered;
+    font-family:'Times New Roman', Times, serif;
+}
+#three{
+    font-family:'Times New Roman', Times, serif;
+
+}
+#four{
+    color:orangered
+}
+#five{
+    margin-top: 40px;
+}
+#six{
+    color: #E1306C;
+}
+#seven{
+    background-color: orangered;
+}
+#seven:active{
+    background-color: green;
+    color: white;
+}
+#suriya{
+    font-family:'Times New Roman', Times, serif;
+
+}
+#contactme{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#skills{
+    background-color:rgba(143, 146, 159, 0.438);
+    border-radius: 30px;
+    box-shadow: rgba(118, 114, 114, 0.285) 0px 10px 90px;
+}
+#about{
+    font-family:'Times New Roman', Times, serif;
+    color: orangered;
+}
